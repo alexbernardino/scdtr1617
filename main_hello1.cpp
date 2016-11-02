@@ -5,7 +5,6 @@
 int main()
 {
    Hello1 obj;
-   obj.set_id(-3);
-   obj.id = -3;
+   obj.set_id(1);
    obj.run();
 }
