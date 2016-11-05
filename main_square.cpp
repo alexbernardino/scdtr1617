@@ -4,7 +4,7 @@ using namespace std;
 
 void print_square(double x)
 {
-   cout << "The square of " << x << "is ";
+   cout << "The square of " << x << " is ";
    cout << square(x) << endl;
 }
 
